@@ -138,6 +138,7 @@ textarea {
   text-align: center;
   width: 90%;
   margin: auto;
+  justify-content: center;
 }
 
 .div1 p {
@@ -182,7 +183,6 @@ a {
   background-image: url(../img/f11.png);
   background-size: 50px;
   background-repeat: no-repeat;
-  
 }
 
 article  {
